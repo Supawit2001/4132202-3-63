@@ -26,3 +26,4 @@ services:
             - 8100:80
         links: 
             - db:db
+            
